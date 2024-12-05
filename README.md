@@ -104,11 +104,4 @@ Import database to MySQL Server
 ```
 
 
-## Support
 
-For support, email us at [Parth Banker](mailto:parthbanker.sw@gmail.com) or [Het Parekh](mailto:het.parekh.sw21@gmail.com)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at [Parth Banker](mailto:parthbanker.sw@gmail.com) or [Het Parekh](mailto:het.parekh.sw21@gmail.com)
