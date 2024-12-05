@@ -9,29 +9,9 @@ This website was built for Gujarat University (Animation Dept.) for CPL i.e. Cri
     - Team-wise Dashboard
     - Global Stats Page
 
-## Organization Logo
 
-![Logo](https://github.com/parthhbanker/CPL-GU/assets/62717231/126cb518-b578-4e7f-a646-dbd94fe4acda "GU LOGO") 
 
 ![Logo](https://github.com/parthhbanker/CPL-GU/assets/62717231/39ab390d-b135-446b-a313-cd1a8fde5b3b)
-
-
-## Used By
-
-This project is used by the following organization:
-
-- Gujarat University (Department of Animation, IT-IMS & Mobile Application)
-
-
-## Authors
-
-- [@parthhbanker](https://github.com/parthhbanker/)
-- [@hetparekh21](https://github.com/hetparekh21/)
-
-
-## Acknowledgements
-
-- Frontend Developed by [@kirtankhatri](https://github.com/kirtan2004khatri)
 
 
 ## Features
